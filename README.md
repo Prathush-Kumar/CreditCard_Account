@@ -14,10 +14,8 @@ You are required to create a public class named `CreditcardAccount` in Java, whi
 
 ### Creditcard Account Inherits BankAccount Class Diagram
 
-<p align="center">
   ![CreditAccountUML](https://github.com/user-attachments/assets/00c59c11-31e1-4d71-beca-12119eeefb9f)
 
-</p>
 
 ### Structure of the Fields
 As described by the UML Class Diagram, your `CreditcardAccount` class must have the following field:
