@@ -1,6 +1,6 @@
 // This is the abstract base class for all types of bank accounts.  
 
-public abstract class BankAccount {
+public abstract class BankAccount { 
     // Common attributes for all bank accounts
     protected String accountID = "0000-0000-0000-0000"; // Default account ID
     protected double interestRate = 0.0; // Default interest rate as a decimal (0% by default)
