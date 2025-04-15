@@ -1,4 +1,4 @@
-// This is the abstract base class for all types of bank accounts.         
+// This is the abstract base class for all types of bank accounts.          
 
 public abstract class BankAccount { 
     // Common attributes for all bank accounts
